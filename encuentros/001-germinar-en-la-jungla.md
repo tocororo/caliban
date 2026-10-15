@@ -2,6 +2,8 @@
 title: "001 · Germinar en la jungla"
 description: Crónica del primer encuentro del taller Caliban.
 date: 2026-09-20
+image: /media/03-banner-horizontal.jpeg
+imageAlt: Figuras biomecánicas entre palmas y neones
 ---
 
 <div class="page-banner">

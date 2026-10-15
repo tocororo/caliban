@@ -92,8 +92,7 @@ export default defineConfig({
           text: 'Textos',
           items: [
             { text: 'Todos los textos', link: '/textos/' },
-            { text: 'Manifiesto Caliban', link: '/textos/manifiesto-caliban' },
-            { text: 'IA, cuerpo y territorio', link: '/textos/ia-cuerpo-territorio' }
+            { text: 'Un nuevo sistema histórico', link: '/textos/01-ramonet' }
           ]
         }
       ]

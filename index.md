@@ -26,38 +26,30 @@ La **inteligencia artificial** es el resultado de procesos científicos, técnic
 
 </a>
 
-<div class="terminal">
-
-<span class="prompt">caliban@taller:~$</span> quien --participa<br />
-<span class="dim">→</span> quien traiga una pregunta y las manos dispuestas<br />
-<span class="prompt">caliban@taller:~$</span> que --necesito<br />
-<span class="dim">→</span> nada más que curiosidad. el barro y los cables los ponemos aquí.<br />
-
-</div>
 
 <JungleDivider />
 
-## Acceso rápido
+## Lo último
 
 <div class="neon-grid">
 
-<a class="neon-card" href="/caliban/encuentros/">
+<a class="neon-card" href="/caliban/encuentros/001-germinar-en-la-jungla">
   <img src="/media/03-banner-horizontal.jpeg" alt="Figuras en la jungla con neones verdes y magenta" loading="lazy" />
   <div class="neon-card__body">
-    <p class="neon-card__tag">Bitácora // Encuentros</p>
-    <h3 class="neon-card__title">Lo que ya germinó</h3>
-    <p class="neon-card__desc">Archivo de sesiones: fechas, imágenes y crónicas. Entra por la última huella y sigue el rastro hacia atrás.</p>
-    <p class="neon-card__meta">→ /encuentros/ · actualizado por sesión</p>
+    <p class="neon-card__tag">Último encuentro · 2026-09-20</p>
+    <h3 class="neon-card__title">001 · Germinar en la jungla</h3>
+    <p class="neon-card__desc">Crónica del encuentro fundacional: ¿qué inteligencia queremos cultivar y cuál desmalezar? 14 participantes entre taller y línea.</p>
+    <p class="neon-card__meta">→ leer la crónica</p>
   </div>
 </a>
 
-<a class="neon-card" href="/caliban/textos/">
-  <img src="/media/04-banner-horizontal.jpeg" alt="Cyborgs entre bambú y cables con luz ámbar" loading="lazy" />
+<a class="neon-card" href="/caliban/textos/01-ramonet">
+  <img src="/media/ramonet.jpeg" alt="Ilustración cyber-jungla con mapa del mundo y hologramas: nuevo sistema histórico, geopolítica multipolar, inteligencia artificial" loading="lazy" />
   <div class="neon-card__body">
-    <p class="neon-card__tag">Blog // Textos</p>
-    <h3 class="neon-card__title">Lo que estamos pensando</h3>
-    <p class="neon-card__desc">Ensayos y notas críticas sobre IA, cuerpo y territorio. Lectura libre, remezcla bienvenida.</p>
-    <p class="neon-card__meta">→ /textos/ · manifiesto + ensayos</p>
+    <p class="neon-card__tag">Último texto · 2026-10-09</p>
+    <h3 class="neon-card__title">Un nuevo sistema histórico</h3>
+    <p class="neon-card__desc">Ignacio Ramonet: veinte apuntes para una cartografía de la Nueva Transformación.</p>
+    <p class="neon-card__meta">→ leer · 23 min</p>
   </div>
 </a>
 
@@ -74,4 +66,4 @@ La **inteligencia artificial** es el resultado de procesos científicos, técnic
 | Apertura total | Sin matrícula, sin peaje | Mira [cómo participar](/acerca-de#como-participar) |
 
 > [!TIP] ¿Primera visita?
-> Empieza por el [Manifiesto Caliban](/textos/manifiesto-caliban), luego asómate al [último encuentro](/encuentros/001-germinar-en-la-jungla).
+> Empieza por [Un nuevo sistema histórico](/textos/01-ramonet), luego asómate al [último encuentro](/encuentros/001-germinar-en-la-jungla).
