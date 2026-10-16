@@ -60,12 +60,4 @@ Caliban es, en última instancia, un taller para desarmar la inteligencia artifi
 3. **Deja huella** — crónica, foto o nota. Mira [cómo documentar un encuentro](/encuentros/como-documentar).
 4. **Escribe** — propón un texto para [/textos/](/textos/). Breve vale; sin cerrar vale más.
 
-<div class="terminal">
-
-<span class="prompt">caliban@taller:~$</span> contacto<br />
-<span class="dim">→</span> abre un issue en <a href="https://github.com/tocororo/caliban">github.com/tocororo/caliban</a> o cae al próximo encuentro.<br />
-<span class="dim">→</span> este sitio vive en <a href="https://tocororo.github.io/caliban">tocororo.github.io/caliban</a>.<br />
-
-</div>
-
-![El taller entre maleza y cables](/media/04-banner-horizontal.jpeg){.jungle-img}
+![El taller entre maleza y cables](/media/01-banner-vertical.jpeg){.jungle-img}
