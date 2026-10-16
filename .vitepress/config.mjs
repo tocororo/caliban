@@ -39,7 +39,6 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: 'Bitácora de Caliban',
-    logoLink: '/',
     darkModeSwitchLabel: 'Apariencia',
     lightModeSwitchTitle: 'Cambiar a modo claro',
     darkModeSwitchTitle: 'Cambiar a modo oscuro',
@@ -82,7 +81,6 @@ export default defineConfig({
           text: 'Encuentros',
           items: [
             { text: 'Bitácora de encuentros', link: '/encuentros/' },
-            { text: '001 · Germinar en la jungla', link: '/encuentros/001-germinar-en-la-jungla' },
             { text: 'Cómo documentar un encuentro', link: '/encuentros/como-documentar' }
           ]
         }
@@ -92,7 +90,7 @@ export default defineConfig({
           text: 'Textos',
           items: [
             { text: 'Todos los textos', link: '/textos/' },
-            { text: 'Un nuevo sistema histórico', link: '/textos/01-ramonet' }
+            { text: 'Un nuevo sistema histórico', link: '/textos/001-ramonet' }
           ]
         }
       ]
@@ -103,8 +101,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Taller abierto · IA y sociedad · Hecho con maleza, cables y neón.',
-      copyright: '© 2026 Caliban — Contenido abierto para remezclar con atribución.'
+      message: 'Bitácora de Caliban -  Taller abierto de inteligencia artificial y sociedad.',
+      copyright: '© 2026 Universidad de Pinar del Río "Hermanos Saíz Montes de Oca" — Contenido abierto para remezclar con atribución.'
     }
   },
 

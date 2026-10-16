@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Bitácora de Caliban
+title: Caliban
 titleTemplate: Taller abierto de inteligencia artificial y sociedad
 hero:
-  name: Bitácora de Caliban
+  name: Caliban
   text: "Taller abierto de inteligencia artificial y sociedad"
   tagline: 
 
@@ -16,6 +16,15 @@ features:
     details: "Ensayos, artículos y reflexiones críticas sobre IA, tecnología y sociedad."
     link: /textos/
     linkText: Leer y remezclar
+proximo:
+  fecha: 3 de Noviembre a las 10:00 AM
+  lugar: Edificio de Rectoría - Biblioteca de Ciencias Técnicas
+  titulo: "Encuentro 01: La Jungla"
+  texto:
+    - ¿Por qué Caliban? Presentación del taller. 
+    - "General:  ¿Qué inteligencia? Panorama General de la IA en la actualidad"
+    - Local - Uso de la IA en la Universidad
+    - Práctica - Creación y Auditoría de Documentos
 ---
 
 <a class="manifiesto" href="./acerca-de">
@@ -31,39 +40,28 @@ La **inteligencia artificial** es el resultado de procesos científicos, técnic
 
 ## Lo último
 
-<div class="neon-grid">
+<script setup>
+import { data as encuentros } from './encuentros/encuentros.data.js'
+import { data as textos } from './textos/textos.data.js'
 
-<a class="neon-card" href="/caliban/encuentros/001-germinar-en-la-jungla">
-  <img src="/media/03-banner-horizontal.jpeg" alt="Figuras en la jungla con neones verdes y magenta" loading="lazy" />
-  <div class="neon-card__body">
-    <p class="neon-card__tag">Último encuentro · 2026-09-20</p>
-    <h3 class="neon-card__title">001 · Germinar en la jungla</h3>
-    <p class="neon-card__desc">Crónica del encuentro fundacional: ¿qué inteligencia queremos cultivar y cuál desmalezar? 14 participantes entre taller y línea.</p>
-    <p class="neon-card__meta">→ leer la crónica</p>
-  </div>
-</a>
+const ultimoEncuentro = encuentros.find((e) => e.session)
+const ultimoTexto = textos[0]
+const latest = [
+  ultimoEncuentro && {
+    ...ultimoEncuentro,
+    tag: ultimoEncuentro.date ? `Último encuentro · ${ultimoEncuentro.date}` : 'Último encuentro'
+  },
+  ultimoTexto && {
+    ...ultimoTexto,
+    tag: ultimoTexto.date ? `Último texto · ${ultimoTexto.date}` : 'Último texto'
+  }
+].filter(Boolean)
+</script>
 
-<a class="neon-card" href="/caliban/textos/01-ramonet">
-  <img src="/media/ramonet.jpeg" alt="Ilustración cyber-jungla con mapa del mundo y hologramas: nuevo sistema histórico, geopolítica multipolar, inteligencia artificial" loading="lazy" />
-  <div class="neon-card__body">
-    <p class="neon-card__tag">Último texto · 2026-10-09</p>
-    <h3 class="neon-card__title">Un nuevo sistema histórico</h3>
-    <p class="neon-card__desc">Ignacio Ramonet: veinte apuntes para una cartografía de la Nueva Transformación.</p>
-    <p class="neon-card__meta">→ leer · 23 min</p>
-  </div>
-</a>
-
-</div>
+<IndexCards :items="latest" />
 
 <JungleDivider />
 
-## Cómo funciona el taller
+## ¿Por qué Caliban?
 
-| Ritmo | Formato | Registro |
-|---|---|---|
-| Encuentros periódicos presenciales + en línea | Conversación, taller de manos, lectura colectiva | Cada sesión publica crónica + imagen en `/encuentros/` |
-| Escritura continua | Ensayos breves, notas de campo, glosas | Todo texto vive en `/textos/` con fecha y autoría |
-| Apertura total | Sin matrícula, sin peaje | Mira [cómo participar](/acerca-de#como-participar) |
-
-> [!TIP] ¿Primera visita?
-> Empieza por [Un nuevo sistema histórico](/textos/01-ramonet), luego asómate al [último encuentro](/encuentros/001-germinar-en-la-jungla).
+<RetamarQuote />

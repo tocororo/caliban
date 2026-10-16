@@ -26,7 +26,8 @@ export default createContentLoader('encuentros/*.md', {
           desc: fm.description ?? '',
           tag,
           meta: fm.meta ?? '→ leer la crónica',
-          date
+          date,
+          session: Boolean(num)
         }
       })
       .sort((a, b) => String(b.date).localeCompare(String(a.date)) || a.title.localeCompare(b.title, 'es'))

@@ -23,5 +23,4 @@ import { data as cards } from './encuentros.data.js'
 
 | Nº | Fecha | Encuentro | Registro |
 |---|---|---|---|
-| 001 | 2026-09-20 | [Germinar en la jungla](/encuentros/001-germinar-en-la-jungla) | Crónica + imagen |
 | — | — | *Tu encuentro aquí* | Mira [cómo documentar](/encuentros/como-documentar) |

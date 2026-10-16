@@ -23,4 +23,4 @@ import { data as cards } from './textos.data.js'
 
 | Fecha | Texto | Eje |
 |---|---|---|
-| 2026-10-15 | [Un nuevo sistema histórico](/textos/01-ramonet) | Nueva Transformación |
+| 2026-10-15 | [Un nuevo sistema histórico](/textos/001-ramonet) | Nueva Transformación |

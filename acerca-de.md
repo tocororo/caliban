@@ -14,7 +14,7 @@ description: Propósitos, integrantes y cómo participar en Caliban.
 # Caliban
 ## Taller abierto de inteligencia artificial y sociedad
 
-**Caliban** es un espacio de encuentro, reflexión y experimentación en torno a la inteligencia artificial y sus cruces con la universidad y la sociedad contemporánea. Con sede en la Biblioteca de la Universidad de Pinar del Río, proponemos encuentros periódicos para explorar, discutir y poner a prueba las tecnologías que están reconfigurando nuestra manera de aprender, investigar, trabajar y comprender el mundo.
+**Caliban** es un espacio de encuentro, reflexión y experimentación en torno a la inteligencia artificial y sus cruces con la universidad y la sociedad contemporánea. Con sede en el Centro de Recursos para el Aprendizaje y la Investigación de la Universidad de Pinar del Río "Hermanos Saíz Montes de Oca", proponemos encuentros periódicos para explorar, discutir y poner a prueba las tecnologías que están reconfigurando nuestra manera de aprender, investigar, trabajar y comprender el mundo.
 
 Partimos de una convicción: la inteligencia artificial no es magia, ni una fuerza inevitable, ni un ámbito reservado a unos pocos. Es el resultado de procesos científicos, técnicos, económicos, culturales y políticos que podemos estudiar, cuestionar y reorientar. Desmitificarla significa ir más allá del entusiasmo acrítico o el temor paralizante: implica examinar sus posibilidades reales, sus limitaciones y, sobre todo, preguntarnos quiénes la desarrollan, con qué propósitos y a costa de qué saberes.
 
@@ -33,7 +33,7 @@ Caliban nace con vocación abierta, horizontal y plural. Es un lugar donde estud
 
 Cada sesión estará dedicada a un eje temático específico mediante una combinación de análisis teórico, debate y experimentación práctica. Examinaremos conceptos y herramientas; analizaremos sus implicaciones éticas, sociales y educativas; y exploraremos su funcionamiento a través de ejercicios y demostraciones concretas.
 
-Además, el taller será una vitrina para los proyectos de curso de la carrera de Ingeniería Informática. Entendemos la producción técnica universitaria como una oportunidad viva para compartir resultados, someter ideas al debate público y construir comunidad académica desde la práctica.
+Además, el taller será una vitrina para los proyectos de curso de la asignatura en la carrera de Ingeniería Informática. Entendemos la producción técnica universitaria como una oportunidad viva para compartir resultados, someter ideas al debate público y construir comunidad académica desde la práctica.
 
 ## El blog: una bitácora abierta
 
@@ -43,7 +43,7 @@ Este blog es la extensión digital de nuestras sesiones presenciales. Aquí reun
 
 El nombre Caliban evoca una figura clave de nuestra tradición intelectual que nos incita a pensar las relaciones entre cultura, conocimiento, poder e identidad. En un presente atravesado por algoritmos y modelos generativos, esa figura cobra un sentido renovado. Nos preguntamos:
 
-- ¿Cómo apropiarnos críticamente de tecnologías diseñadas en otros centros de poder?
+- ¿Cómo apropiarnos críticamente de tecnologías diseñadas en los centros de poder?
 - ¿Cómo intervenir en su desarrollo desde nuestras propias vivencias?
 - ¿Cómo evitar que la innovación se traduzca en una nueva forma de subordinación intelectual?
 
