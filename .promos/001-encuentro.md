@@ -8,7 +8,7 @@
 
 ⏰ **Hora:** 10:00 AM
 
-📍 **Lugar:** Centro de Recursos para el Aprendizaje y la Investigación - Sala de Ciencias Técnicas  - Edificio de Rectoría
+📍 **Lugar:** Centro de Recursos para el Aprendizaje y la Investigación - Sala de Ciencias Técnicas  - Edificio de la Rectoría
 
 ---
 

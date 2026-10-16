@@ -18,7 +18,7 @@ features:
     linkText: Leer y remezclar
 proximo:
   fecha: 3 de Noviembre a las 10:00 AM
-  lugar:  Centro de Recursos para el Aprendizaje y la Investigación - Sala de Ciencias Técnicas  - Edificio de Rectoría
+  lugar:  Centro de Recursos para el Aprendizaje y la Investigación - Sala de Ciencias Técnicas  - Edificio de la Rectoría
   titulo: "Encuentro 001: La Jungla"
   link: "/encuentros/001-la-jungla"
   linkText: Leer más
