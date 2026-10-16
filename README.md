@@ -1,7 +1,7 @@
 # Caliban — Taller abierto de inteligencia artificial y sociedad
 
 Sitio estático en español construido con **VitePress** (Vue 3) y Node.js v24.
-Publicado en **https://malayibiri.github.io/caliban** desde el repo `https://github.com/malayibiri/caliban.git`.
+Publicado en **https://tocororo.github.io/caliban** desde el repo `https://github.com/tocororo/caliban.git`.
 
 ## Requisitos
 
@@ -35,7 +35,7 @@ npm run preview  # previsualiza la compilación
 ## Publicar
 
 1. `git init && git add . && git commit -m "Sitio Caliban"`
-2. `git remote add origin https://github.com/malayibiri/caliban.git && git push -u origin main`
+2. `git remote add origin https://github.com/tocororo/caliban.git && git push -u origin main`
 3. En GitHub: **Settings → Pages → Source: GitHub Actions**.
 4. Cada push a `main` reconstruye y publica automáticamente.
 

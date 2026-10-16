@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'es-ES',
   title: 'Bitácora de Caliban',
   description: 'Taller abierto de inteligencia artificial y sociedad',
-  // Base para GitHub Pages: https://malayibiri.github.io/caliban
+  // Base para GitHub Pages: https://tocororo.github.io/caliban
   // En desarrollo local se puede sobreescribir con `vitepress dev --base=/`
   base: '/caliban/',
   srcDir: '.',
@@ -16,7 +16,7 @@ export default defineConfig({
     ['meta', { name: 'description', content: 'Caliban — Taller abierto de inteligencia artificial y sociedad. Encuentros, textos y bitácora crítica sobre IA, tecnología y sociedad.' }],
     ['meta', { property: 'og:title', content: 'Caliban — Taller abierto de inteligencia artificial y sociedad' }],
     ['meta', { property: 'og:description', content: 'Fusión cyber-jungla: IA, arte, cuerpo y territorio. Encuentros y textos.' }],
-    ['meta', { property: 'og:image', content: 'https://malayibiri.github.io/caliban/media/02-banner-horizontal.jpeg' }],
+    ['meta', { property: 'og:image', content: 'https://tocororo.github.io/caliban/media/02-banner-horizontal.jpeg' }],
     ['meta', { property: 'og:locale', content: 'es_ES' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2307100d'/%3E%3Ctext x='16' y='23' font-family='monospace' font-size='19' font-weight='bold' text-anchor='middle' fill='%2300ff9d'%3EC%3C/text%3E%3C/svg%3E" }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
@@ -97,7 +97,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/malayibiri/caliban' }
+      { icon: 'github', link: 'https://github.com/tocororo/caliban' }
     ],
 
     footer: {

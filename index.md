@@ -19,12 +19,15 @@ features:
 proximo:
   fecha: 3 de Noviembre a las 10:00 AM
   lugar: Edificio de Rectoría - Biblioteca de Ciencias Técnicas
-  titulo: "Encuentro 01: La Jungla"
+  titulo: "Encuentro 001: La Jungla"
+  link: "/encuentros/001-la-jungla"
+  linkText: Leer más
   texto:
-    - ¿Por qué Caliban? Presentación del taller. 
-    - "General:  ¿Qué inteligencia? Panorama General de la IA en la actualidad"
-    - Local - Uso de la IA en la Universidad
-    - Práctica - Creación y Auditoría de Documentos
+    - ¿Qué significa comprender la inteligencia artificial en un mundo donde el conocimiento, la tecnología y el poder están cada vez más entrelazados?
+    - ¿Por qué Caliban? 
+    - Panorama General de la IA
+    - Uso de la IA en la Universidad
+    - "Ejercicio práctico: Creación y auditoría de documentos"
 ---
 
 <a class="manifiesto" href="./acerca-de">

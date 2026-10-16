@@ -7,7 +7,7 @@
       <span>&#128205; {{ proximo.lugar }}</span>
     </p>
     <p v-for="(p, i) in proximo.texto" :key="i" class="next-encuentro__text">{{ p }}</p>
-    <a class="btn-neon" :href="withBase('/encuentros/')">Ver la bit&aacute;cora</a>
+    <a class="btn-neon" :href="withBase(proximo.link )">{{ proximo.linkText }}</a>
   </div>
 </template>
 

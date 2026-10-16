@@ -63,8 +63,8 @@ Caliban es, en última instancia, un taller para desarmar la inteligencia artifi
 <div class="terminal">
 
 <span class="prompt">caliban@taller:~$</span> contacto<br />
-<span class="dim">→</span> abre un issue en <a href="https://github.com/malayibiri/caliban">github.com/malayibiri/caliban</a> o cae al próximo encuentro.<br />
-<span class="dim">→</span> este sitio vive en <a href="https://malayibiri.github.io/caliban">malayibiri.github.io/caliban</a>.<br />
+<span class="dim">→</span> abre un issue en <a href="https://github.com/tocororo/caliban">github.com/tocororo/caliban</a> o cae al próximo encuentro.<br />
+<span class="dim">→</span> este sitio vive en <a href="https://tocororo.github.io/caliban">tocororo.github.io/caliban</a>.<br />
 
 </div>
 
