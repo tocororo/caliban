@@ -582,6 +582,25 @@ a.manifiesto:hover {
 /* Footer */
 .dark .VPFooter { border-top: 1px solid rgba(0, 255, 157, 0.16); background: linear-gradient(180deg, transparent, rgba(0,255,157,0.04)); }
 
+/* Logo institucional UPR — bajo el footer, centrado y en escala de grises */
+.footer-logo {
+  display: flex;
+  justify-content: center;
+  padding: 0 24px 40px;
+  background-color: var(--vp-c-bg);
+}
+.footer-logo__img {
+  width: clamp(84px, 12vw, 132px);
+  height: auto;
+  filter: grayscale(1);
+  opacity: 0.6;
+  transition: opacity 0.3s ease, filter 0.3s ease;
+}
+.footer-logo__img:hover { opacity: 0.95; }
+/* En modo oscuro el emblema (oscuro) se invierte para seguir viéndose en gris */
+.dark .footer-logo__img { filter: grayscale(1) invert(1); opacity: 0.5; }
+.dark .footer-logo__img:hover { opacity: 0.85; }
+
 /* Claro: jungla niebla legible */
 :root:not(.dark) .VPHome .VPHero { border-color: rgba(0, 122, 74, 0.35); }
 :root:not(.dark) .caliban-title { color: #f2fff8; }

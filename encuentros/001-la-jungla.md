@@ -10,7 +10,7 @@ imageAlt: Figuras biomecánicas entre palmas y neones
   <img src="/media/03-banner-horizontal.jpeg" alt="Figuras biomecánicas entre palmas y neones" />
   <div class="page-banner__text">
     <h1>Encuentro 001 · La jungla</h1>
-    <p>// 2026-11-03 · Edificio de Rectoría - Biblioteca de Ciencias Técnicas</p>
+    <p>// 2026-11-03 · Sala de Ciencias Técnicas</p>
   </div>
 </div>
 

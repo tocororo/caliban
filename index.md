@@ -18,16 +18,23 @@ features:
     linkText: Leer y remezclar
 proximo:
   fecha: 3 de Noviembre a las 10:00 AM
-  lugar: Edificio de Rectoría - Biblioteca de Ciencias Técnicas
+  lugar:  Centro de Recursos para el Aprendizaje y la Investigación - Sala de Ciencias Técnicas  - Edificio de Rectoría
   titulo: "Encuentro 001: La Jungla"
   link: "/encuentros/001-la-jungla"
   linkText: Leer más
   texto:
-    - ¿Qué significa comprender la inteligencia artificial en un mundo donde el conocimiento, la tecnología y el poder están cada vez más entrelazados?
-    - ¿Por qué Caliban? 
-    - Panorama General de la IA
-    - Uso de la IA en la Universidad
-    - "Ejercicio práctico: Creación y auditoría de documentos"
+    - "1- Presentación de Caliban: ¿Por qué este taller?"
+    - El concepto de Caliban, la reapropiación del lenguaje técnico y la filosofía de un espacio horizontal.
+
+    - "2- Panorama actual de la IA:"
+    - "Un mapa sin mitos: desde el aprendizaje automático y los grandes modelos de lenguaje (LLM) hasta los sistemas agénticos."
+    - "De la brecha de percepción y las geopolíticas de la tecnología."
+    - "3- La Universidad ante la IA:"
+    - "Análisis del informe de la UNESCO sobre educación superior en América Latina y el Caribe: oportunidades, riesgos de la delegación cognitiva y la redefinición de la evaluación."
+
+    - "4- Laboratorio Práctico:"
+    - "De la generación automática a la auditoría de documentos: ejercicio guiado para exigir rigor, contexto local y juicio crítico a los modelos de lenguaje."
+
 ---
 
 <a class="manifiesto" href="./acerca-de">

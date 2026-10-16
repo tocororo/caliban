@@ -7,6 +7,7 @@ import HomeExergo from './components/HomeExergo.vue'
 import IndexCards from './components/IndexCards.vue'
 import RetamarQuote from './components/RetamarQuote.vue'
 import NextEncuentro from './components/NextEncuentro.vue'
+import FooterLogo from './components/FooterLogo.vue'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -14,7 +15,8 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       'home-hero-image': () => h(HomeExergo),
-      'home-features-before': () => h(NextEncuentro)
+      'home-features-before': () => h(NextEncuentro),
+      'layout-bottom': () => h(FooterLogo)
     })
   },
   enhanceApp({ app }) {
