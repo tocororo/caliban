@@ -10,6 +10,7 @@ export default defineConfig({
   srcDir: '.',
   outDir: './.vitepress/dist',
   cleanUrls: true,
+  srcExclude: ['slides/**'],
 
   head: [
     ['meta', { name: 'theme-color', content: '#07100d' }],

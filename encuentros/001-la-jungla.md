@@ -33,6 +33,21 @@ También remite al universo visual de Wifredo Lam, cuya obra, combinada con la e
 
 ---
 
+## Presentación del encuentro
+
+<div class="slide-embed">
+  <iframe
+    src="/caliban/slides/001-la-jungla/"
+    title="Presentación · Encuentro 001 · La Jungla"
+    loading="lazy"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<p><a class="slide-embed__link" href="/caliban/slides/001-la-jungla/" target="_blank" rel="noopener">Abrir la presentación en pantalla completa ↗</a></p>
+
+---
+
 ## 1. ¿Por qué Caliban?
 
 El nombre del taller remite al personaje de *La tempestad*, de William Shakespeare, y, de manera especial, a la relectura que hizo de él el ensayista y poeta cubano Roberto Fernández Retamar en *Calibán*, publicado originalmente en 1971.

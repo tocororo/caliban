@@ -614,3 +614,29 @@ a.manifiesto:hover {
     text-align: right;
   }
 }
+
+/* ============================================================
+   Presentaciones Slidev embebidas
+   ============================================================ */
+.slide-embed {
+  position: relative;
+  margin: 1.6rem 0 0.8rem;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 255, 157, 0.28);
+  background: var(--caliban-abyss, #07100d);
+  box-shadow: 0 0 30px rgba(0, 255, 157, 0.14), 0 24px 60px rgba(0, 0, 0, 0.45);
+}
+.slide-embed iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+.slide-embed__link {
+  display: inline-block;
+  margin-top: 0.2rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}

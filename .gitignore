@@ -1,8 +1,11 @@
 node_modules/
 .vitepress/dist/
 .vitepress/cache/
+public/slides/
+.slidev/
 npm-debug.log*
 .DS_Store
 bib
 *tmp*
 .promos
+slides/*/exports/

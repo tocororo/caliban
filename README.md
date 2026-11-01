@@ -12,9 +12,22 @@ Publicado en **https://tocororo.github.io/caliban** desde el repo `https://githu
 ```bash
 npm install
 npm run dev      # desarrollo en http://localhost:5173/caliban/
-npm run build    # compila a .vitepress/dist/
+npm run build    # compila presentaciones + sitio a .vitepress/dist/
 npm run preview  # previsualiza la compilación
 ```
+
+### Presentaciones (Slidev)
+
+```bash
+npm run slides:dev -- 001-la-jungla   # sirve una presentación en http://localhost:3030/
+npm run slides:build                  # compila todas a public/slides/<slug>/
+npm run slides:export -- 001-la-jungla pdf   # exporta a slides/<slug>/exports/
+```
+
+`npm run build` ejecuta primero `slides:build` y luego VitePress, de modo que las
+presentaciones quedan dentro de `public/slides/` y se publican con el sitio.
+Para ver una presentación embebida en `npm run dev` hace falta haberla compilado
+antes al menos una vez (`npm run slides:build`).
 
 ## Estructura
 
@@ -26,6 +39,9 @@ npm run preview  # previsualiza la compilación
 | `acerca-de.md` | Propósitos, quiénes y cómo participar |
 | `media/` | **Fuente** de imágenes (las de referencia ya están aquí) |
 | `public/media/` | Espejo de `media/` para servir en web (VitePress solo publica `public/`). Si añades una imagen a `media/`, cópiala también a `public/media/` |
+| `slides/<slug>/` | **Fuente** de las presentaciones Slidev (`slides.md`, `style.css`, imágenes en `img/`) |
+| `public/slides/<slug>/` | **Salida** compilada de cada presentación (la genera `npm run slides:build`; no editar a mano) |
+| `scripts/` | Utilidades `build-slides.sh`, `dev-slides.sh`, `export-slides.sh` |
 | `.vitepress/config.mjs` | Navegación `nav` + `sidebar` en español, `lang: 'es-ES'`, `base: '/caliban/'` |
 | `.vitepress/theme/index.js` | Tema que importa `custom.css` y registra `CalibanHero`, `JungleDivider` |
 | `.vitepress/theme/custom.css` | Paleta cyber-jungla, glows neón, hero, tarjetas, banners |
