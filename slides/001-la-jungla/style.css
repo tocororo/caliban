@@ -113,6 +113,83 @@
   box-shadow: 0 12px 40px rgba(0,0,0,0.55);
 }
 
+/* Figuras y retratos */
+.caliban-figure { margin: 0; }
+.caliban-figure img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(0,255,157,0.25);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.5);
+}
+.caliban-figure--wide img {
+  height: 138px;
+  object-position: center 25%;
+}
+.caliban-figure--thumb {
+  flex: 0 0 auto;
+  width: 92px;
+}
+.caliban-figure--thumb img {
+  height: 92px;
+  object-position: center 20%;
+}
+/* Imagen central de gran formato */
+.caliban-figure--power {
+  width: 72%;
+  margin: 0.7rem auto 0;
+}
+.caliban-figure--power img {
+  height: 206px;
+  object-fit: cover;
+  object-position: center 45%;
+}
+.caliban-figure--float {
+  float: right;
+  width: 37%;
+  margin: 0 0 0.5rem 0.85rem;
+}
+.caliban-figure--float img {
+  height: 112px;
+  object-position: center 22%;
+}
+.caliban-figure--float-lg {
+  width: 46%;
+}
+.caliban-figure--float-lg img {
+  height: 116px;
+  object-position: center 45%;
+}
+.caliban-figure-row {
+  display: flex;
+  gap: 0.8rem;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0.8rem 0 0;
+}
+.caliban-figure-row .caliban-figure {
+  flex: 0 0 auto;
+  height: 196px;
+}
+.caliban-figure-row .caliban-figure img {
+  width: auto;
+  height: 100%;
+  object-position: center top;
+}
+
+/* Fila de perfil: retrato + texto */
+.caliban-profile {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+}
+.caliban-profile > div {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
 /* Textos auxiliares */
 .caliban-lead {
   margin: 0.75rem 0 1.25rem;
@@ -235,6 +312,12 @@
   padding: 0.35rem 0.5rem;
   border-bottom: 1px solid rgba(226,238,233,0.08);
   vertical-align: top;
+}
+/* Tablas extensas: texto y celdas más compactas */
+.caliban-table--dense table { font-size: 0.62rem; }
+.caliban-table--dense th,
+.caliban-table--dense td {
+  padding: 0.24rem 0.45rem;
 }
 
 /* Referencias */
