@@ -274,47 +274,6 @@ layout: default
 class: caliban-deck
 ---
 
-# Acceso desigual, poder concentrado
-
-<div class="caliban-grid-2">
-
-<div>
-
-<div class="caliban-panel">
-
-- Acceso desigual a modelos avanzados, dispositivos, conectividad, cómputo y conocimientos
-- La IA puede ampliar capacidades **y** profundizar diferencias
-- El desarrollo se concentra en pocas empresas y países
-- Se concentra también el poder de definir cómo se desarrollan las tecnologías
-
-</div>
-
-</div>
-
-<div>
-
-**Preguntas que nos llevamos**
-
-- ¿La IA democratiza el conocimiento o crea nuevas diferencias?
-- ¿Qué ocurre cuando aprender e investigar dependen de plataformas externas?
-- ¿Basta aprender a usar herramientas o necesitamos comprender las infraestructuras?
-- ¿Cómo desarrollar capacidades propias para participar en la producción de conocimiento?
-
-</div>
-
-
-</div>
-
-<figure class="caliban-figure caliban-figure--power">
-<img src="./img/power.jpeg" alt="US DIGITAL SPHERE and CHINA DIGITAL ECOSYSTEM" />
-</figure>
-
-
----
-layout: default
-class: caliban-deck
----
-
 # 2.3 La IA en una transformación histórica
 
 <div class="caliban-lead caliban-profile">
@@ -366,19 +325,56 @@ La pregunta deja de ser qué puede hacer la IA y pasa a incluir qué sociedad es
 </div>
 
 ---
-layout: section
-class: caliban-section
+layout: default
+class: caliban-deck
 ---
 
-# 2.4 · La universidad ante la inteligencia artificial
+# Acceso desigual, poder concentrado
+
+<div class="caliban-grid-2">
+
+<div>
+
+<div class="caliban-panel">
+
+- Acceso desigual a modelos avanzados, dispositivos, conectividad, cómputo y conocimientos
+- La IA puede ampliar capacidades **y** profundizar diferencias
+- El desarrollo se concentra en pocas empresas y países
+- Se concentra también el poder de definir cómo se desarrollan las tecnologías
+
+</div>
+
+</div>
+
+<div>
+
+**Preguntas que nos llevamos**
+
+- ¿La IA democratiza el conocimiento o crea nuevas diferencias?
+- ¿Qué ocurre cuando aprender e investigar dependen de plataformas externas?
+- ¿Basta aprender a usar herramientas o necesitamos comprender las infraestructuras?
+- ¿Cómo desarrollar capacidades propias para participar en la producción de conocimiento?
+
+</div>
+
+
+</div>
+
+<figure class="caliban-figure caliban-figure--power">
+<img src="./img/power.jpeg" alt="US DIGITAL SPHERE and CHINA DIGITAL ECOSYSTEM" />
+</figure>
+
+
 ---
 layout: default
 class: caliban-deck
 ---
 
-# Informe de la UNESCO: La implementación de la IA en la educación superior en América Latina y el Caribe
+# 2.4 · La universidad ante la inteligencia artificial 
 
 <div class="caliban-lead">
+
+Informe de la UNESCO: **La implementación de la IA en la educación superior en América Latina y el Caribe**
 
 Encuesta a **200 instituciones de 19 países** de América Latina y el Caribe, aplicada entre agosto y octubre de 2025.
 
@@ -869,7 +865,7 @@ layout: section
 class: caliban-section
 ---
 
-# 5 · Para continuar la conversación
+# Para continuar la conversación
 
 ---
 layout: default
@@ -880,7 +876,7 @@ class: caliban-deck
 
 <div class="caliban-grid-2">
 
-<div>
+<div class="caliban-card">
 
 **Próximos encuentros**
 
@@ -954,19 +950,24 @@ class: caliban-deck
 <div class="caliban-refs">
 
 1. **Andrej Karpathy.** [Reflexión sobre la brecha en la percepción de las capacidades de los modelos de lenguaje](https://x.com/karpathy/status/2109361546505966046).
+
 2. **Ignacio Ramonet.** [*Un nuevo sistema histórico: Veinte apuntes para una Cartografía de la Nueva Transformación*](https://tocororo.github.io/caliban/textos/001-ramonet).
+
 3. **UNESCO.** [*La implementación de la IA en la educación superior en América Latina y el Caribe*](https://unesdoc.unesco.org/ark:/48223/pf0000399333_spa).
+
 4. **Felix Rieseberg.** [*How to be more ambitious: A tutorial for humans with models*](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/).
-5. **Roberto Fernández Retamar.** *Calibán*.
 
-### Cuba
+5. **MINCOM (2024).** [*Política para la Transformación Digital, Agenda Digital Cubana y Estrategia para el Desarrollo y Uso de la IA en Cuba*](https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umogvdp0g-Cuba%20Politica_de_Transformacion_Digital_de__Agenda_Digital_y_Estrategia.pdf).
 
-6. **MINCOM (2024).** [*Política para la Transformación Digital, Agenda Digital Cubana y Estrategia para el Desarrollo y Uso de la IA en Cuba*](https://api.oecd.ai/storage//policy-initiatives/Apr2026/117ojpi25umogvdp0g-Cuba%20Politica_de_Transformacion_Digital_de__Agenda_Digital_y_Estrategia.pdf).
-7. **Revista Temas (2025).** [*Inteligencia artificial*](https://temas.cult.cu/revista/revista_datos/100), no. 121.
-8. **Parque Científico Tecnológico de La Habana (2026).** [Asamblea General del Consorcio Cubano para la IA](https://www.3ce.cu/index.php/noticias/el-consorcio-cubano-para-la-inteligencia-artificial-celebra-asamble-general).
-9. **EcuRed.** [Consorcio de Inteligencia Artificial de Cuba](https://www.ecured.cu/Consorcio_de_Inteligencia_Artificial_de_Cuba).
-10. **UCLV.** [Por un uso ordenado de la inteligencia artificial](https://www.uclv.edu.cu/por-un-uso-ordenado-de-la-inteligencia-artificial/).
-11. **Universidad de La Habana.** [Luciano García Garrido: «La IA es un colaborador, no un sustituto del razonamiento»](https://www.facebook.com/universidaduhcuba/posts/luciano-garc%C3%ADa-garrido-la-ia-es-un-colaborador-no-un-sustituto-del-razonamiento-/1613088047495355/).
+6. **Revista Temas (2025).** [*Inteligencia artificial*](https://temas.cult.cu/revista/revista_datos/100), no. 121.
+
+7. **Parque Científico Tecnológico de La Habana (2026).** [Asamblea General del Consorcio Cubano para la IA](https://www.3ce.cu/index.php/noticias/el-consorcio-cubano-para-la-inteligencia-artificial-celebra-asamble-general).
+
+8. **EcuRed.** [Consorcio de Inteligencia Artificial de Cuba](https://www.ecured.cu/Consorcio_de_Inteligencia_Artificial_de_Cuba).
+
+9. **UCLV.** [Por un uso ordenado de la inteligencia artificial](https://www.uclv.edu.cu/por-un-uso-ordenado-de-la-inteligencia-artificial/).
+
+10. **Universidad de La Habana.** [Luciano García Garrido: «La IA es un colaborador, no un sustituto del razonamiento»](https://www.facebook.com/universidaduhcuba/posts/luciano-garc%C3%ADa-garrido-la-ia-es-un-colaborador-no-un-sustituto-del-razonamiento-/1613088047495355/).
 
 </div>
 ---
