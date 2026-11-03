@@ -354,7 +354,7 @@ No se trata de utilizar la IA para simular una tesis completa de forma automáti
 **El laboratorio propone pasar de la generación pasiva de textos a la construcción, el examen crítico y la auditoría de una investigación universitaria.**
 
 
-## 5. Para continuar la conversación
+## Para continuar la conversación
 
 Este primer encuentro es el punto de partida de *Caliban*, no una introducción que pretenda agotar el tema.
 
